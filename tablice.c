@@ -4,7 +4,7 @@
 
 int main()
 {
-	//Zadanie 1. Napisz program wprowadzajπcy do 10 - elementowej tablicy wartoúci : 3, 6, 9, ...
+	//Zadanie 1. Napisz program wprowadzajƒÖcy do 10 - elementowej tablicy warto≈õci : 3, 6, 9, ...
 
 	//int tabInt[10];
 	//int a = 3;
@@ -17,7 +17,7 @@ int main()
 	//	printf("%d\n",tabInt[i]);
 	//}
 
-	//Zadanie 2. Do programu z zadania 1 dodaj instrukcje wyúwietlajπce co drugπ wartoúÊ z tablicy
+	//Zadanie 2. Do programu z zadania 1 dodaj instrukcje wy≈õwietlajƒÖce co drugƒÖ warto≈õƒá z tablicy
 
 	//int tabint[10];
 	//int a = 3;
@@ -31,8 +31,8 @@ int main()
 	//	printf("%d\n",tabint[i]);
 	//}
 
-	//Wype≥nij n-elementowπ tablicÍ, zaczynajπc od ostatniej komÛrki tablicy,
-	//wartoúciami a, a5, a-10, ... . WartoúÊ ca≥kowitπ a podaje uøytkownik.
+	//Zadanie 3. Wype≈Çnij n-elementowƒÖ tablicƒô, zaczynajƒÖc od ostatniej kom√≥rki tablicy,
+	//warto≈õciami a, a5, a-10, ... . Warto≈õƒá ca≈ÇkowitƒÖ a podaje u≈ºytkownik.
 
 	//int a, tabInt[10];
 	//printf("Podaj a ");
@@ -48,8 +48,8 @@ int main()
 	//	printf("%d\n", tabInt[i]);
 	//}
 
-	//Napisz program znajdujπcy minimalnπ wartoúÊ w tablicy n - elementowej, 
-	//elementy tablicy sπ losowane z przedzia≥u[-23, 50].
+	//Zadanie 4. Napisz program znajdujƒÖcy minimalnƒÖ warto≈õƒá w tablicy n - elementowej, 
+	//elementy tablicy sƒÖ losowane z przedzia≈Çu[-23, 50].
 
 	//int tabInt[20];
 
@@ -72,8 +72,8 @@ int main()
 
 	//printf("\nnajmniejsza liczba z wylosowanych: %d \nnajwieksza liczba z wylosowanych: %d", min, max);
 
-	//Zadanie 5. Uøytkownik podaje 2 pierwsze wartoúci tablicy.
-	//Wype≥nij pozosta≥e komÛrki tablicy wartoúciami, ktÛre stanowiπ sumÍ wartoúci z dwÛch poprzedzajπcych komÛrek tablicy
+	//Zadanie 5. U≈ºytkownik podaje 2 pierwsze warto≈õci tablicy.
+	//Wype≈Çnij pozosta≈Çe kom√≥rki tablicy warto≈õciami, kt√≥re stanowiƒÖ sumƒô warto≈õci z dw√≥ch poprzedzajƒÖcych kom√≥rek tablicy
 	//.np.: 3, 6, ? , ? , ? -> 3, 6, 9, 15, 24.
 
 
@@ -93,8 +93,8 @@ int main()
 	//	printf("%d ", tabInt[i]);
 	//}
 
-	//Zadanie 6. Dana jest tablica 20 elementowa.Pierwsza po≥owa tablicy jest wype≥niona.Napisz program,
-	//ktÛry wype≥ni drugπ po≥owÍ tablicy poprzez kopiowanie kolejnych wartoúci z pierwszej po≥owy tablicy.
+	//Zadanie 6. Dana jest tablica 20 elementowa.Pierwsza po≈Çowa tablicy jest wype≈Çniona.Napisz program,
+	//kt√≥ry wype≈Çni drugƒÖ po≈Çowƒô tablicy poprzez kopiowanie kolejnych warto≈õci z pierwszej po≈Çowy tablicy.
 
 	int tabInt[20];
 	for (int i = 0; i < 10; i++)
