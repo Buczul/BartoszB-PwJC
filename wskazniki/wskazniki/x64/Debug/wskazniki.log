@@ -1,0 +1,6 @@
+﻿  funkcje.c
+C:\Users\Administrator\Desktop\programowanie w c\wskazniki\funkcje.c(37,26): warning C4047: "return": "int" różni się w poziomach operatorów pośrednich od "int *"
+C:\Users\Administrator\Desktop\programowanie w c\wskazniki\funkcje.c(38,7): warning C4047: "return": "int" różni się w poziomach operatorów pośrednich od "int *"
+  main.c
+  Generowanie kodu...
+  wskazniki.vcxproj -> C:\Users\Administrator\Desktop\programowanie w c\wskazniki\x64\Debug\wskazniki.exe
